@@ -1,0 +1,12 @@
+mlflow==3.12.0
+beautifulsoup4==4.14.3
+cloudpickle==3.1.2
+matplotlib==3.10.9
+monai==1.5.2
+numpy==2.4.4
+pandas==2.2.3
+psutil==7.2.2
+pydicom==3.0.2
+scipy==1.17.1
+torch==2.12.0
+tqdm==4.67.3
