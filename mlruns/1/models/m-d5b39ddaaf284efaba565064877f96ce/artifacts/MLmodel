@@ -1,0 +1,23 @@
+artifact_path: /Users/deekshabankapur/medilens/mlruns/1/models/m-d5b39ddaaf284efaba565064877f96ce/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.14.0
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.12.0
+mlflow_version: 3.12.0
+model_id: m-d5b39ddaaf284efaba565064877f96ce
+model_size_bytes: 1669831
+model_uuid: m-d5b39ddaaf284efaba565064877f96ce
+prompts: null
+run_id: 91cead5810f546c1ae2cc3518900beb2
+utc_time_created: '2026-05-14 12:20:54.133219'
